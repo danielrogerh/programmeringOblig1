@@ -6,6 +6,6 @@ public class ObligatoriskOppgave1 {
                            "Daniel Roger Hansen - s333748" + '\n' +
                            //Fyll inn navn og studentnummer under
                            "Åsmund Gundersen - s330362" + '\n' + 
-                           "Herman Vognild Rustad - s333769");  
+                           "Herman Rustad - s333769");  
     } 
 }
