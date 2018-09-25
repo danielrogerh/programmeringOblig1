@@ -5,7 +5,7 @@ public class ObligatoriskOppgave1 {
         System.out.println("Obligatorisk oppgave 1" + '\n' + 
                            "Daniel Roger Hansen - s333748" + '\n' +
                            //Fyll inn navn og studentnummer under
-                           "... - ..." + '\n' + 
+                           "Åsmund Gundersen - s330362" + '\n' + 
                            "... - ...");  
     } 
 }
